@@ -19,7 +19,6 @@ I'm **Vishnu Venu**, a GIS Analyst passionate about spatial data and innovative 
 ### 📫 Contact
 - Email: [vishnuvenu432@gmail.com](mailto:vishnuvenu432@gmail.com)
 - LinkedIn: [Vishnu Venu](https://www.linkedin.com/in/vishnu-venu-gis)
-
 ---
 
 ### 📊 Experience
@@ -30,11 +29,6 @@ I'm **Vishnu Venu**, a GIS Analyst passionate about spatial data and innovative 
 
 **GIS Technical Assistant at Chittur Govt. College**
 - Mapped spatial distribution of quarries in Kerala.
-
-### 🎓 Education
-
-**M.Sc. Geoinformatics, Kuvempu University**
-**B.Sc. Geology, SN College Chempazhanthy**
 
 ### 🛠️ Skills
 
